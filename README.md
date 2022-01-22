@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I mostly code in Python
+- I’m currently learning Javascript
+- I'm interested in developing web applications
+- I try to contribute to projects that I use
 <!--
 **nityy/nityy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
