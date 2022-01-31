@@ -4,6 +4,7 @@
 - I’m currently learning Javascript
 - I try to contribute to projects that I use
 - I'm interested in developing web applications
+- Check out a webapp I built: [NoteIt](https://github.com/nityy/NoteIt)
 
 <!--
 **nityy/nityy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
