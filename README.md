@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I mostly code in Python
-- I’m currently learning Node.js
+- I code in Python & JavaScript
+- I’m currently practicing MERN stack
 - I try to contribute to projects that I use
 - Check out a webapp I built: [NoteIt](https://github.com/nityy/NoteIt)
 
