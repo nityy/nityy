@@ -3,7 +3,6 @@
 - I mostly code in Python
 - I’m currently learning Node.js
 - I try to contribute to projects that I use
-- I'm interested in developing web applications
 - Check out a webapp I built: [NoteIt](https://github.com/nityy/NoteIt)
 
 <!--
