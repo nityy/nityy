@@ -2,7 +2,7 @@
 
 - I code in Python & JavaScript
 - I try to contribute to projects that I use
-- Check out a webapp I built: [NoteIt](https://github.com/nityy/NoteIt)
+- Check out the pinned repos for some of my works
 
 <!--
 **nityy/nityy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
