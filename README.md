@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello
 
 - I code in Python & JavaScript
 - I try to contribute to projects that I use
